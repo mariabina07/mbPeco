@@ -111,11 +111,11 @@
         {
             "id": 12,
             "name": "TIME",
-            "image": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/Cirque_du_Soleil.jpg",
-            "status": "30 years of Cirque du Soleil's best photos...",
+            "image": null,
+            "status": "The 30 Most Influential Teens of 2017...",
             "profilePic": "https://api.androidhive.info/feed/img/time.png",
             "timeStamp": "1403375851930",
-            "url": "http://ti.me/1qW8MLB"
+            "url": "http://time.com/5003930/most-influential-teens-2017/"
         }
     ]
 }
