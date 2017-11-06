@@ -30,11 +30,11 @@
         {
             "id": 3,
             "name": "Discovery",
-            "image": "https://api.androidhive.info/feed/img/discovery_mos.jpg",
-            "status": "A team of Austrian scientists has developed a laser system that causes fruit flies to dance.",
+            "image": "http://www.discoverychannelasia.com/wp-content/uploads/2017/06/Bangkok-Hooker-960x540_image16x9.jpg",
+            "status": "Don't miss the new episode of Bangkok Hooker. Famous for diving into rivers after fish and braving rapids for snagged gear, Oz Chanarat, aka Bangkok Hooker, is on a mission.",
             "profilePic": "https://api.androidhive.info/feed/img/discovery.jpg",
             "timeStamp": "1403375851930",
-            "url": "http://dsc.tv/xmMxD"
+            "url": "http://www.discoverychannelasia.com/bangkokhooker/"
         },
         {
             "id": 5,
@@ -66,11 +66,11 @@
         {
             "id": 8,
             "name": "Maria Bina",
-            "image": "",
+            "image": null,
             "status": "Be grateful <3",
             "profilePic": "https://1.bp.blogspot.com/-sSwYecm5TcY/UYZ5DSXn27I/AAAAAAAAAmQ/N2bSYviXF2c/s113/Picture%2Bof%2Bme%2B10.png",
             "timeStamp": "1403375851930",
-            "url": ""
+            "url": null
         },
         {
             "id": 8,
@@ -102,7 +102,7 @@
         {
             "id": 11,
             "name": "Chibi Nara",
-            "image": "https://github.com/mariabina07/mbPeco/blob/master/KuchikiNara.jpg",
+            "image": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/KuchikiNara.jpg",
             "status": "Happy Imlek 2014",
             "profilePic": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/KuchikiNaraChibi.jpg",
             "timeStamp": "1403375851930",
