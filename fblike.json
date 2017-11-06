@@ -1,24 +1,6 @@
 {
     "feed": [
         {
-            "id": 1,
-            "name": "Chibi Nara",
-            "image": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/1.jpg",
-            "status": "Check out Kuchiki Nara and Ice Cream at your nearest bookstore",
-            "profilePic": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/KuchikiNaraChibi.jpg",
-            "timeStamp": "1403375851930",
-            "url": "https://www.facebook.com/media/set/?set=a.10201734583393783&type=1&l=2417283d11"
-        },
-        {
-            "id": 2,
-            "name": "National Geographic Channel",
-            "image": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/National%20Geographic%20Cosmos.jpg",
-            "status": "\"Science is a beautiful and emotional human endeavor,\" says Brannon Braga, executive producer and director. \"And Cosmos is all about making science an experience.\"",
-            "profilePic": "https://api.androidhive.info/feed/img/nat.jpg",
-            "timeStamp": "1403375851930",
-            "url": null
-        },
-        {
             "id": 3,
             "name": "Discovery",
             "image": "http://www.discoverychannelasia.com/wp-content/uploads/2017/06/Bangkok-Hooker-960x540_image16x9.jpg",
@@ -26,6 +8,15 @@
             "profilePic": "https://api.androidhive.info/feed/img/discovery.jpg",
             "timeStamp": "1403375851930",
             "url": "http://www.discoverychannelasia.com/bangkokhooker/"
+        },
+        {
+            "id": 5,
+            "name": "Maria Bina",
+            "image": "http://2.bp.blogspot.com/-hRGMraoIRA8/UZJvo_ZwiPI/AAAAAAAAAoY/gbEfMrnaMs0/s640/DSC01817.JPG",
+            "status": "Import Vuforia Android Sample in OS X. Phew, it has been so long until I decided to write new tutorial. I have done some just-for-me app...",
+            "profilePic": "https://1.bp.blogspot.com/-sSwYecm5TcY/UYZ5DSXn27I/AAAAAAAAAmQ/N2bSYviXF2c/s113/Picture%2Bof%2Bme%2B10.png",
+            "timeStamp": "1403375851930",
+            "url": "http://mariabina07.blogspot.co.id/2013/05/import-vuforia-android-sample-in-os-x.html"
         },
         {
             "id": 4,
@@ -37,13 +28,22 @@
             "url": null
         },
         {
-            "id": 5,
-            "name": "Maria Bina",
-            "image": "http://2.bp.blogspot.com/-hRGMraoIRA8/UZJvo_ZwiPI/AAAAAAAAAoY/gbEfMrnaMs0/s640/DSC01817.JPG",
-            "status": "Android Sliding Menu using Navigation Drawer",
-            "profilePic": "https://1.bp.blogspot.com/-sSwYecm5TcY/UYZ5DSXn27I/AAAAAAAAAmQ/N2bSYviXF2c/s113/Picture%2Bof%2Bme%2B10.png",
+            "id": 2,
+            "name": "National Geographic Channel",
+            "image": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/National%20Geographic%20Cosmos.jpg",
+            "status": "\"Science is a beautiful and emotional human endeavor,\" says Brannon Braga, executive producer and director. \"And Cosmos is all about making science an experience.\"",
+            "profilePic": "https://api.androidhive.info/feed/img/nat.jpg",
             "timeStamp": "1403375851930",
-            "url": "http://mariabina07.blogspot.co.id/2013/05/import-vuforia-android-sample-in-os-x.html"
+            "url": null
+        },
+        {
+            "id": 1,
+            "name": "Chibi Nara",
+            "image": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/1.jpg",
+            "status": "Check out Kuchiki Nara and Ice Cream at your nearest bookstore~",
+            "profilePic": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/KuchikiNaraChibi.jpg",
+            "timeStamp": "1403375851930",
+            "url": "https://www.facebook.com/media/set/?set=a.10201734583393783&type=1&l=2417283d11"
         },
         {
             "id": 6,
@@ -111,8 +111,8 @@
         {
             "id": 12,
             "name": "TIME",
-            "image": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/Cirque_du_Soleil(6012116697).jpg",
-            "status": "30 years of Cirque du Soleil's best photos",
+            "image": "https://raw.githubusercontent.com/mariabina07/mbPeco/master/Cirque_du_Soleil.jpg",
+            "status": "30 years of Cirque du Soleil's best photos...",
             "profilePic": "https://api.androidhive.info/feed/img/time.png",
             "timeStamp": "1403375851930",
             "url": "http://ti.me/1qW8MLB"
